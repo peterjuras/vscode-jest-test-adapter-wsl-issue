@@ -1,0 +1,11 @@
+{
+  "name": "vscode-jest-test-adapter-wsl-issue",
+  "version": "1.0.0",
+  "scripts": {
+    "test": "jest"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "jest": "^26.0.1"
+  }
+}
